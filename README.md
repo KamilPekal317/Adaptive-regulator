@@ -7,7 +7,7 @@ Project is about changin clasical PID regulator too adaptive regulator and neura
 ### Contorl system with adaptive PI
 ![a1](https://user-images.githubusercontent.com/84718240/123263898-c14e2000-d4f9-11eb-87cc-58c3fa982151.png)
 
-### Inside of subsystem "Regulator adaptacyjny"
+### Interior of subsystem "Regulator adaptacyjny"
 ![a2](https://user-images.githubusercontent.com/84718240/123263902-c1e6b680-d4f9-11eb-85b7-703f8f8270eb.png)
 
 ### Results of adaptive process 
